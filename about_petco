@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About us</title>
+<style>
+    h1 > em {font-size: 20px;}
+    p sub {font-size: 10px; font-family: inherit}
+</style>    
+</head>
+<body>
+    <table>
+    <tr>
+    <th><a href="home.html">Home</a></th>
+    <th><a href=about-us.html>About us</a></th>
+    <th><a href=products.html>Our products</a></th>    
+    <th><a href=contact-area.html>Contact us!</a></th>    
+    </tr>
+    </table>
+    
+    <h3 id="bottomheader">A little birdy told us...</h3>
+<button onclick="displayResult()">Click here</button>
+    
+<script>
+function displayResult(){
+    document.getElementById("bottomheader").innerHTML="...That we had quite the adventure!";
+    }
+</script>
+
+    <h1><u>Where did it all begin?</u> </h1>
+<p>Long story short: Ten years ago PoZ Adams, investigated the growing pet food market and found out that there was a lacking variety. Through his dedication<sup>*</sup> he created a <em>"sweet yet healthy blend of nuts, fruits and seeds"</em></p>
+    
+<p>*<sub>After many failures and prototypes</sub></p>
+    
+<p><sub>Terms and conditions 123abc you don't have to say anything but if you do say or do anything then it can be used as evidence against you.</sub></p>
+
+<p>Our timeline</p>    
+<table>
+<ol>
+    <li>PoZ Adams creates his prototype Birdybomba mix</li>
+    <li>Using his pocket change. BirdRus was promply created</li>
+    <li>Profit?</li>
+    <li>Something</li>
+    
+    </ol>    
+ 
+   
+
+</table>    
+</body>    
+</html>
