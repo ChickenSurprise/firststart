@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+  <html>
+      
+    <head>
+      <title>Bird Factsheet</title>
+        <link href="style.css"
+              type=text/css
+              rel="stylesheet">
+    </head> 
+      
+       <body>
+        <!-- This is a general introduction to birds-->   
+         <h1>Overview of Birds</h1>  
+           <p>There are a lot of bird species, each unique to their own <b>habitats</b> ranging from: <br> The thick rainforest to the freezing Arctic.
+           </p>
+           
+        <h2><u>My favourite birds</u></h2> 
+        <!-- The following paragraph shows some bird species-->   
+           <p>Whilst all birds are <strong>amazing</strong> some birds hold their top position due to their:</p>
+           
+            <table>
+            <ul>
+             <li>Apperance</li>
+              <img src="wilsons_bird.jpg" 
+                   alt="A picture showing Wilson's Bird of Paradise"
+                   style= height="250px" width="250px">
+                
+             <li>Behaviour</li>
+              <img 
+                   src="sanderling.jpg"
+                   alt="A Sanderling on a beach"
+                   style= height="30%" width="30%">
+                   
+             <li>Relations</li>
+              <a 
+                   href="http://wildthings.sarahzielinski.com/blog/of-cuckoos-cowbirds-and-other-parasitic-birds/" 
+                   target="_blank">
+              <img src="https://c1.staticflickr.com/9/8463/8079424957_d06fd14f03_b.jpg"
+                   style= height="250px" width="250px">
+              </a>
+                
+             <li>Symbolism</li>
+              <img  src="eagle.jpg"
+                    alt="A picture of an eagle"
+                    style= height="30%" width="30%">
+            </ul>
+            </table>
+        
+       </body>
+        
+  </html>
