@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact us!</title>    
+<body>
+    <table>
+    <tr>
+    <th><a href="home.html">Home</a></th>
+    <th><a href=about-us.html>About us</a></th>
+    <th><a href=products.html>Our products</a></th>    
+    <th><a href=contact-area.html>Contact us!</a></th>    
+    </tr>
+    </table>
+<h1>Need a little hand?</h1>
+</body>    
+</head>
+</html>
