@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Our products</title>    
+    <style>
+        body 
+    {background-image:url(https://c1.staticflickr.com/1/145/437991798_9ae3058545_z.jpg?zz=1); 
+    background-size:auto;
+    background-position:center top;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    }   
+    
+    </style>
+<body>
+    
+    <table>
+    <tr>
+    <th><a href="home.html">Home</a></th>
+    <th><a href=about-us.html>About us</a></th>
+    <th><a href=products.html>Our products</a></th>    
+    <th><a href=contact-area.html>Contact us!</a></th>    
+    </tr>
+    </table>
+    
+ <h1>Products</h1>   
+    
+    
+</body>    
+    
+</head>
+</html>
