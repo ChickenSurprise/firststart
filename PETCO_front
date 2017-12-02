@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    table, th, td {border: 1px solid black;} 
+    
+    p {font-size: 15px; font-family:sans-serif;}
+    th {color: rebeccapurple; font-style:italic;}
+    a:link {color:darkorange;text-decoration: none;}
+    a:visited{color:cadetblue;}
+    a:hover{text-decoration: underline;}
+    a:active{color: coral;}
+    ul{list-style-type: square}
+</style>
+    <title>LB2C Home page</title>
+<body>
+    <h1><strong><u>We are the LowBudget2Cans</u></strong></h1>
+    <table>
+    <tr>
+    <th><a href="home.html">Home</a></th>
+    <th><a href=about-us.html>About us</a></th>
+    <th><a href=products.html>Our products</a></th>    
+    <th><a href=contact-area.html>Contact us!</a></th>    
+    </tr>
+    </table>
+    <p>We make pelletz. <br> You buy our products <br> And your pets eat them.</p>
+<a href=https://www.google.co.uk/search?q=toucan&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjh_siS2dHVAhVsKcAKHeEaDfoQ_AUICigB&biw=958&bih=954>  What is a toucan? </a>
+    
+<img src="http://i.imgur.com/4f10w9b.jpg" 
+     alt="Hello" 
+     height="200px" width="200px">
+    
+<p> "One day a man and his toucan were hungry and thought: <strong> 'someone should make bird food'</strong> and so the duo founded their company which stands today the <del>high</del> low budget toucans"</p>
+    
+<h2>Our products</h2>
+    <img src="2can.jpg" height="200px" width=400px>
+    <ul>
+    <li>Birdpods<sup>TM</sup></li>
+    <li>Krunchies<sup>TM</sup></li>
+    <li>TasteyBeakz<sup>TM</sup></li>
+    </ul>
+    
+<table>
+<tr>
+    <caption>You can see our prices below</caption>
+    <td align="middle" colspan="4"> Special packs </td>
+</tr> 
+    
+<tr>
+<th>Basic</th>  
+<th>Promo</th>
+<th>Special</th>    
+<th>Premium</th>
+    </tr>
+
+    <tr>
+<td> Just pelletz</td>
+<td>Pelletz deluxe</td>    
+<td>Pelletz special delivery</td> 
+<td>Pelletz2can plush</td>
+    </tr>
+    
+    <tr>
+<td>£2.00 pm</td>
+<td>£5.00 pm</td> 
+<td>£10.00 pm</td> 
+<td>£30.00 pm</td>        
+    </tr>  
+</table>
+    
+
+<p>Curious to find out more?</p>
+<form action="/action_page.php"> 
+    <fieldset>
+<legend>Personal information:</legend>    
+First name: <br>    
+<input type="text" name="firstname"> <br>
+Last name: <br>    
+<input type="text" name="lastname"> <br>
+
+    <p>What kind of customer are you?</p>
+    <input type="radio" name="typeofperson" value="Bird owner" checked>Bird carers <br>
+    <input type="radio" name="typeofperson" value="Supplier"> Supplier <br>
+    <input type="radio" name="typeofperson" value="Pet store"> Store <br>
+    
+<input type="submit" value="Submit"
+       </fieldset>
+</form>    
+    
+    
+</body>
+</head>
+</html>
